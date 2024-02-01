@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JOgwnkNXDqNr9l2eOrwAmK7qitbutc3o8qU7UQ6ezf9XRhDXppDfrRAnmb6WtRwq42LNzAPDmCkiGAsqjs7pOA==",
+  "dgSpecHash": "BTByHCwSzOWYCIsh90kAYEwo8dLjMj+JUBhsH7Zyxw4x3fM9u/NytxEQ4gZtyfYijbrUT9eu+Ep48iBjLCEFGA==",
   "success": true,
   "projectFilePath": "C:\\Projects\\EntityFrameworkPractice\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCore\\DBOperationsWithEFCore.csproj",
   "expectedPackageFiles": [
